@@ -5,7 +5,6 @@ React Junior Developer 😎
 -----------------------------
 
 *   🤝  I'm open to collaborating on interesting projects as a React developer
-*   
                   
 ### Skills
 <p align="left">
